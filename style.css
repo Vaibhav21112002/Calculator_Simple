@@ -1,0 +1,21 @@
+* {
+  font-family: sans-serif;
+  font-size: medium;
+  text-align: center;
+  margin: 5px;
+}
+
+div.container {
+  justify-items: center;
+  align-items: center;
+  background-color: antiquewhite;
+  display: inline-block;
+  padding: 50px;
+  margin: auto;
+  border: 2px solid rgb(218, 64, 64);
+  border-radius: 5px;
+}
+
+h1 {
+  font-size: x-large;
+}
